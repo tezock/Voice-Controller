@@ -1,0 +1,15 @@
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\bin\Debug\Voice Recognition 1.exe.config
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\bin\Debug\Voice Recognition 1.exe
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\bin\Debug\Voice Recognition 1.pdb
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice Recognition 1.csproj.AssemblyReference.cache
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice Recognition 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice_Recognition_1.Form1.resources
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice_Recognition_1.Properties.Resources.resources
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice Recognition 1.csproj.GenerateResource.cache
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice Recognition 1.csproj.CoreCompileInputs.cache
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice Recognition 1.exe
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice Recognition 1.pdb
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\bin\Debug\WindowsInput.dll
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\bin\Debug\WindowsInput.pdb
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\bin\Debug\WindowsInput.xml
+C:\Users\Robert Tezock\source\repos\Voice Recognition 1\Voice Recognition 1\obj\Debug\Voice Recognition 1.csproj.CopyComplete
